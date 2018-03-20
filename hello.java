@@ -1,1 +1,2 @@
-你好  HelloWord!
+
+Hi! Hello Java!
